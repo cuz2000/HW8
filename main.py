@@ -22,3 +22,13 @@ while True:
         functions.find_data()
     else:
         break
+
+
+
+# with open('book.txt', 'w', encoding = 'utf-8') as f:
+#         f.write('фио | номер телефона')
+
+
+
+
+
