@@ -25,9 +25,6 @@ while True:
 
 
 
-# with open('book.txt', 'w', encoding = 'utf-8') as f:
-#         f.write('фио | номер телефона')
-
 
 
 

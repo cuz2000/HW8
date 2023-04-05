@@ -19,6 +19,7 @@ def find_data() -> None:
     data = input('Введите данные для поиска')
     with open('book.txt', 'r', encoding = 'utf-8') as f:
         tel_book = f.read()
+    print('Результаты поиска: ')
     print(search(tel_book, data))
     
 
